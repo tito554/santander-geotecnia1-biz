@@ -1,0 +1,57 @@
+# Santander
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amplificacion Sismica](https://santander.geotecnia1.biz/amplificacion-sismica/)
+- [Calicatas Exploratorias](https://santander.geotecnia1.biz/calicatas-exploratorias/)
+- [Cbr Vial](https://santander.geotecnia1.biz/cbr-vial/)
+- [Cimentaciones](https://santander.geotecnia1.biz/cimentaciones/)
+- [Clasificacion Suelos](https://santander.geotecnia1.biz/clasificacion-suelos/)
+- [Columnas Grava](https://santander.geotecnia1.biz/columnas-grava/)
+- [Compactacion Dinamica](https://santander.geotecnia1.biz/compactacion-dinamica/)
+- [Compresion Simple](https://santander.geotecnia1.biz/compresion-simple/)
+- [Deep Soil Mixing](https://santander.geotecnia1.biz/deep-soil-mixing/)
+- [Densidad Cono Arena](https://santander.geotecnia1.biz/densidad-cono-arena/)
+- [Dilatometro](https://santander.geotecnia1.biz/dilatometro/)
+- [Drenaje Geotecnico](https://santander.geotecnia1.biz/drenaje-geotecnico/)
+- [Ensayo Cpt](https://santander.geotecnia1.biz/ensayo-cpt/)
+- [Ensayo Spt](https://santander.geotecnia1.biz/ensayo-spt/)
+- [Ensayo Triaxial](https://santander.geotecnia1.biz/ensayo-triaxial/)
+- [Ensayos In Situ](https://santander.geotecnia1.biz/ensayos-in-situ/)
+- [Erosion Suelos](https://santander.geotecnia1.biz/erosion-suelos/)
+- [Estabilidad Taludes](https://santander.geotecnia1.biz/estabilidad-taludes/)
+- [Estudio Mecanica Suelos](https://santander.geotecnia1.biz/estudio-mecanica-suelos/)
+- [Exploracion](https://santander.geotecnia1.biz/exploracion/)
+- [Factor Seguridad](https://santander.geotecnia1.biz/factor-seguridad/)
+- [Flujos Detritos](https://santander.geotecnia1.biz/flujos-detritos/)
+- [Geoceldas](https://santander.geotecnia1.biz/geoceldas/)
+- [Geofisica](https://santander.geotecnia1.biz/geofisica/)
+- [Geotecnia Vial](https://santander.geotecnia1.biz/geotecnia-vial/)
+- [Grouting](https://santander.geotecnia1.biz/grouting/)
+- [Jet Grouting](https://santander.geotecnia1.biz/jet-grouting/)
+- [Laboratorio](https://santander.geotecnia1.biz/laboratorio/)
+- [Limites Atterberg](https://santander.geotecnia1.biz/limites-atterberg/)
+- [Mejoramiento](https://santander.geotecnia1.biz/mejoramiento/)
+- [Microtremores Hvsr](https://santander.geotecnia1.biz/microtremores-hvsr/)
+- [Monitoreo Taludes](https://santander.geotecnia1.biz/monitoreo-taludes/)
+- [Muestreo Inalterado](https://santander.geotecnia1.biz/muestreo-inalterado/)
+- [Muros Contencion](https://santander.geotecnia1.biz/muros-contencion/)
+- [Muros Pantalla](https://santander.geotecnia1.biz/muros-pantalla/)
+- [Pilotes](https://santander.geotecnia1.biz/pilotes/)
+- [Pilotes Friccion Punta](https://santander.geotecnia1.biz/pilotes-friccion-punta/)
+- [Pilotes Hincados](https://santander.geotecnia1.biz/pilotes-hincados/)
+- [Placa De Carga](https://santander.geotecnia1.biz/placa-de-carga/)
+- [Precarga](https://santander.geotecnia1.biz/precarga/)
+- [Remediacion Suelos](https://santander.geotecnia1.biz/remediacion-suelos/)
+- [Sismica](https://santander.geotecnia1.biz/sismica/)
+- [Suelos No Saturados](https://santander.geotecnia1.biz/suelos-no-saturados/)
+- [Taludes Y Muros](https://santander.geotecnia1.biz/taludes-y-muros/)
+- [Tomografia Sismica](https://santander.geotecnia1.biz/tomografia-sismica/)
+
+## Contact
+- Website: https://santander.geotecnia1.biz/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
